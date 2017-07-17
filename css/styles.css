@@ -1,0 +1,54 @@
+header {
+  padding: 10px;
+}
+
+header.row {
+  display: flex;
+  align-items: center;
+
+}
+
+header nav {
+  display: flex;
+  justify-content: flex-end;
+  margin-left:45px;
+  margin-top:-40px;
+  font-size: 16px;
+
+}
+
+header ul{
+  list-style: none;
+  margin-top:30px;
+}
+header li {
+padding:10px;
+margin: 50px;
+display: inline;
+color:#000000;
+}
+
+header a{
+  color:#000000
+}
+
+body {
+  font-family: "Playfair Display",serif;
+
+}
+
+header h1 {
+  margin: 0px;
+  margin-top: 240px;
+  margin-left: 450px;
+}
+
+hr {
+  width:50%;
+border-color: #000000;
+border-width: 1px;
+
+}
+body {
+  background-image: url('http://static.thousandwonders.net/Sicily.original.3637.jpg')
+}

@@ -1,0 +1,162 @@
+header {
+padding: 30px;
+}
+header .row {
+  width: 100%;
+  height: 0;
+}
+#nav_side {
+  background-color: #e6e6e6;
+  width: 100%;
+  height: 70px;
+  margin-top: -30px;
+  margin-left: 0px;
+  position:fixed;
+  display:none;
+}
+
+header ul {
+  list-style: none;
+  margin-top: 22px;
+}
+header .li_m{
+  padding:20px;
+  margin:160px;
+  display:inline;
+  background-color: #e6e6e6;
+}
+
+
+header a {
+  color:#000000;
+  font-family: "Playfair Display",serif;
+  font-size: 16px;
+}
+
+
+.menu_icon{
+  position: absolute;
+  top:15px;
+  left: 650px;
+
+}
+hr{
+  width: 35px;
+    height: 5px;
+    background-color: #404040;
+    margin: 6px 0;
+}
+
+body {
+  font-family: "Playfair Display",serif;
+  background-color: #f2f2f2;
+
+}
+
+.jumbotron {
+background-image: url('http://files2.caprionline.it/article/6171_I_dintorni_di_Capri/imagemain/Dollarphotoclub-75249552_e2x1_0_153_1400.20170621115217.jpg');
+background-position: center;
+width: 100%;
+height:300px;
+position:fixed;
+margin-top:0px;
+
+}
+ .jumbotron h2 {
+   margin-top:80px;
+ }
+
+
+ #sec_h{
+   margin-top: 10px;
+ }
+
+ .plan{
+   position:fixed;
+   top: 360px;
+ }
+
+.col-sm-4 {
+  margin-top:0px;
+}
+#day_1 {
+position:fixed;
+  margin-left: 180px;
+}
+
+#day_2 {
+  position:fixed;
+  margin-left: 620px;
+}
+
+#day_3 {
+  position:fixed;
+  margin-left: 1000px;
+}
+
+div.sep {
+  background-color: #a6a6a6;
+  width: 1px;
+  height: 170px;
+}
+
+#sep1 {
+  position: fixed;
+  left:450px;
+  top: 420px;
+}
+
+#sep2 {
+  position: fixed;
+  left: 870px;
+  top: 420px;
+}
+
+.planner p {
+  margin: 18px;
+  font-size:16px;
+  font-family: Georgia, serif;
+}
+
+.planner a {
+  color: black;
+  font-family: Georgia, serif;
+}
+
+#pd1 {
+  position:fixed;
+  top: 420px;
+  left: 50px;
+}
+
+#pd2{
+  position:fixed;
+  top:420px;
+  left: 500px;
+}
+
+#pd3 {
+  position: fixed;
+  top: 420px;
+  left: 950px;
+}
+
+footer {
+  position:fixed;
+  top:600px;
+  right:60px;
+  width: 100%;
+  background-color: #bfbfbf;
+
+}
+
+footer .row {
+  width: auto;
+  background-color: #bfbfbf;
+}
+
+footer ul {
+  position:fixed;
+  left: 550px;
+  top: 4px;
+}
